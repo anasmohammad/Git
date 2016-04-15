@@ -1,5 +1,5 @@
 # Git
-###Switching remote URLs from SSH to HTTPS
+##Switching remote URLs from SSH to HTTPS
 
 1. Open Terminal.
 
