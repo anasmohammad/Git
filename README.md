@@ -121,9 +121,10 @@ I collected and gathered all the codes above to use easily from one place. If an
 2. Change the current working directory to your local project.
 
 3. List your existing remotes in order to get the name of the remote you want to change.
-      git remote -v
-      origin  git@github.com:USERNAME/REPOSITORY.git (fetch)
-      origin  git@github.com:USERNAME/REPOSITORY.git (push)
+	      git remote -v
+
+	      origin  git@github.com:USERNAME/REPOSITORY.git (fetch)
+	      origin  git@github.com:USERNAME/REPOSITORY.git (push)
 
 ### Change your remote's URL from SSH to HTTPS with the 
       git remote set-url command.
