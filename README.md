@@ -114,7 +114,7 @@ Tag is used to create version of the repo and it helps ot release that version w
 	
 I collected and gathered all the codes above to use easily from one place. If anyone wants to update some codes or snippets he/she is most welcome
 
-##Switching remote URLs from SSH to HTTPS
+### 14. Switching remote URLs from SSH to HTTPS
 
 1. Open Terminal.
 
@@ -139,3 +139,6 @@ The next time you git fetch, git pull, or git push to the remote repository, you
 
 If you have two-factor authentication enabled, you must create a personal access token to use instead of your GitHub password.
 You can use a credential helper so Git will remember your GitHub username and password every time it talks to GitHub.
+
+####For more info
+https://help.github.com/articles/changing-a-remote-s-url/
