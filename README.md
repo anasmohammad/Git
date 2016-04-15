@@ -125,9 +125,9 @@ I collected and gathered all the codes above to use easily from one place. If an
       origin  git@github.com:USERNAME/REPOSITORY.git (fetch)
       origin  git@github.com:USERNAME/REPOSITORY.git (push)
 
-### Change your remote's URL from SSH to HTTPS with the git remote set-url command.
-
-      git remote set-url origin https://github.com/USERNAME/OTHERREPOSITORY.git
+### Change your remote's URL from SSH to HTTPS with the 
+	git remote set-url command.
+      	git remote set-url origin https://github.com/USERNAME/OTHERREPOSITORY.git
 
 ### Verify that the remote URL has changed.
       git remote -v
